@@ -142,5 +142,4 @@ Released under the [MIT License](LICENSE).
 
 **Prakash Laxman Suryawanshi**
 Founder & Director, Qodeigence Infocircle Private Limited
-B.E. Computer Engineering, Sinhgad Institute of Technology, Lonavala
 Email: prakashsurywanshi1@live.com
