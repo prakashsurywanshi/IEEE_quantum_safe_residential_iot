@@ -3,7 +3,7 @@
 Companion notes for the simulation artifact of:
 
 > **A Sustainable Hybrid QKD–PQC Security Architecture for Quantum-Resilient Residential IoT**
-> Prakash Suryawanshi — submitted to the *IEEE Internet of Things Journal*
+> Prakash Laxman Suryawanshi — submitted to the *IEEE Internet of Things Journal*
 > Repository: https://github.com/prakashsurywanshi/IEEE_quantum_safe_residential_iot
 > Artifact tag: `v1.0.0`
 

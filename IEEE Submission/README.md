@@ -2,11 +2,12 @@
 
 Manuscript: **A Sustainable Hybrid QKD–PQC Security Architecture for
 Quantum-Resilient Residential IoT**
-Author: Prakash Suryawanshi (Qodeigence Infocircle Private Limited)
+Author: Prakash Laxman Suryawanshi (Founder & Director, Qodeigence Infocircle
+Private Limited; B.E. Computer Engineering, Sinhgad Institute of Technology,
+Lonavala)
 
-Target venue: IEEE (generic `IEEEtran` journal template; intended for the
-*IEEE Internet of Things Journal* / *IEEE Internet of Things Magazine* — the
-addressee line in the cover letter can be adjusted once the venue is fixed).
+Target venue: *IEEE Internet of Things Journal* (submitted using the standard
+`IEEEtran` journal template).
 
 ## Contents
 
