@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Simulation scratch output (notebook variant)
+paper_outputs/
+
+# Local-only: earlier/other-venue submission attempts (not part of this submission)
+previous-attempts/
+
+# OS
+.DS_Store
+Thumbs.db
